@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dbi (0.4.5)
+      deprecated (= 2.0.1)
+    deprecated (2.0.1)
+    mysql2 (0.5.3)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  dbi (~> 0.4.5)
+  mysql2 (~> 0.5.3)
+
+BUNDLED WITH
+   2.2.31
